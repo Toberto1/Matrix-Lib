@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -g
-SRCS = test.c utility.c myAO.c
-OUT = myAO
+SRCS = test.c utility.c mat.c
+OUT = mat
 
 all: $(OUT)
 

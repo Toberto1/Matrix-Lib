@@ -1,5 +1,5 @@
-#ifndef MYAO_H
-#define MYAO_H
+#ifndef MAT_H
+#define MAT_H
 
 #include <stdio.h>
 #include <stdlib.h>

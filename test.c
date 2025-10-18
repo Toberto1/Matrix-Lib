@@ -1,4 +1,4 @@
-#include "myAO.h"
+#include "mat.h"
 #include "utility.h"
 
 int main(int argc, char *argv[]) {
